@@ -3,7 +3,7 @@
 /*                                                                            */
 /*   sudoku.c                                                                 */
 /*                                                                            */
-/*   By: Gya, Timofey, Bulat                                                  */
+/*   By: Gaia, Timofey, Bulat                                                  */
 /*                                                                            */
 /*   Created: 2018/09/30 16:57:07                                             */
 /*   Updated: 2018/09/30 21:48:47                                             */
