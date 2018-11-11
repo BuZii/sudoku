@@ -3,10 +3,10 @@
 This is my first team work. My friends from **"School 21"** participated in the project: ***Gaia, Timothy*** and ***Bulat*** _(BuZii)._
 We created a program that solves Sudoku. 
 
-## sudoku.c
+# sudoku.c
 The main sudoku.c file. Here you enter the numbers, and checking validity, filling the grid and in numbers and solving Sudoku. 
 
-## checknumber.c
+# checknumber.c
 File checknumber.c fills the numbers horizontally, vertically, and squared. 
 
 
@@ -16,7 +16,10 @@ File checknumber.c fills the numbers horizontally, vertically, and squared.
 • LineN represents a characters string of values ranged between ’1’ and ’9’ or ’.’ (for
 empty boxes).
 
-## Example
+# sudoku.h
+Header file. Here written the function prototype.
+
+# Example
 • Here’s an example of intended input/output for a valid sudoku.
 ![screenshot of sample](https://pp.userapi.com/c831508/v831508634/1cbc1b/ahmdRU7We_k.jpg)
 • In case of error, display "Error" followed by a line break. 
